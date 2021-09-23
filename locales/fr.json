@@ -1,0 +1,47 @@
+{
+  "hello": "Page d'accueil",
+
+  "logo": {
+    "short": "H.",
+    "long": "Hermes"
+  },
+
+  "sidebar": {
+    "home": "Accueil",
+    "users": "Utilisateurs",
+    "subscribers": "Abonnés",
+    "translations": "Traductions",
+    "files": "Fichiers",
+
+    "ares": "Ares",
+    "announces": "Annonces",
+    "informations": "Informations",
+    "skills": "Compétences",
+    "formations": "Formations",
+    "experiences": "Expériences",
+    "tags": "Tags",
+    "colors": "Couleurs",
+    "posts": "Articles",
+
+    "artemis": "Artemis",
+    "links": "Liens",
+    "stats": "Statistiques",
+
+    "tools": "Outils",
+    "apollon": "Apollon"
+  },
+
+  "login": {
+    "form": {
+      "email": "Adresse email",
+      "password": "Mot de passe",
+      "login": "Connexion"
+    },
+    "forget": "Mot de passe oublié ?",
+    "no_account": "Vous n'avez pas de compte ?",
+    "ask": "Demandez-en un.",
+    "secure": "Processus de connexion sécurisé ✅",
+    "credits": "© 2021 - Hermes par ArtDanjProduction.",
+    "credentials": "Vos identifiants sont incorrects ❌"
+  }
+}

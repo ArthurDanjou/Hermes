@@ -1,0 +1,47 @@
+{
+  "hello": "HomePage",
+
+  "logo": {
+    "short": "H.",
+    "long": "Hermes"
+  },
+
+  "sidebar": {
+    "home": "Home",
+    "users": "Users",
+    "subscribers": "Subscribers",
+    "translations": "Translations",
+    "files": "Files",
+
+    "ares": "Ares",
+    "announces": "Announces",
+    "informations": "Informations",
+    "skills": "Skills",
+    "formations": "Formations",
+    "experiences": "Experiences",
+    "tags": "Tags",
+    "colors": "Colors",
+    "posts": "Posts",
+
+    "artemis": "Artemis",
+    "links": "Links",
+    "stats": "Statistics",
+
+    "tools": "Tools",
+    "apollon": "Apollon"
+  },
+
+  "login": {
+    "form": {
+      "email": "Email Address",
+      "password": "Password",
+      "login": "Login"
+    },
+    "forget": "Forgot password?",
+    "no_account": "You don't have an account?",
+    "ask": "Ask for one.",
+    "secure": "Secure login process ✅",
+    "credits": "© 2021 - Hermes by ArtDanjProduction.",
+    "credentials": "Your credentials are incorrect ❌"
+  }
+}
